@@ -16,3 +16,4 @@ We designed the creature to be "battle ready" with its metallic tail and claws.
 ## What would you improve given more time?
 If we had more time, we'd attempt to improve the resemblance to an armadillo by
 making the tail have more bones so it'll be more flexible.
+![CretureImg]([path_or_url_to_image](https://www.polygon.com/entertainment/2020/10/6/21504428/digimon-adventure-2020-reboot-episodes-review-crunchyroll))
