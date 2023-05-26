@@ -1,10 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/0O10SBvA)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10517459&assignment_repo_type=AssignmentRepo)
 # CreatureGeneration
-## Student Names
-Itamar Citrin
+## Made by
 Tal Suchetzky
-## Explain your design. What did you try to achieve?
+Itamar Citrin
+
+## What we try to achieve:
 Our project aimed to create a creature inspired by Ankylomon from Digimon.
 The creature features four legs made of cuboid structure,
 a tail with a spiky metallic end, and an armadillo-like skin.
@@ -13,7 +14,6 @@ resembling a generic animal's movements.
 We designed the legs, tail and neck to have soft edges instead of hard edges, 
 to give the creature limbs which will look rounder, so it'll look more realistic.
 We designed the creature to be "battle ready" with its metallic tail and claws.
-## What would you improve given more time?
+## Given more time we would like to improve:
 If we had more time, we'd attempt to improve the resemblance to an armadillo by
 making the tail have more bones so it'll be more flexible.
-![CretureImg]([path_or_url_to_image](https://www.polygon.com/entertainment/2020/10/6/21504428/digimon-adventure-2020-reboot-episodes-review-crunchyroll))
